@@ -64,18 +64,6 @@ public class JavaCode {
         System.out.println("a != b? " + ( a != b));
 
 
-
-
-
-
-
     }
-
-
-
-
-
-
-
 
 }
